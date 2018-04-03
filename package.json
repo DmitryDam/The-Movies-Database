@@ -16,4 +16,5 @@
     "deploy": "gh-pages -d build"
   },
   "homepage": "https://dmitrydam.github.io/The-Movies-Database/build"
+  
 }

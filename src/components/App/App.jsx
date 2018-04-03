@@ -15,7 +15,7 @@ class App extends React.Component {
 
   state = {
     movieCardsState: [],
-    watchlist: JSON.parse(localStorage.getItem('localStorFilm')) 
+    watchlist: JSON.parse(localStorage.getItem('localStorFilm')) || []
   }
 
   componentWillMount(){
