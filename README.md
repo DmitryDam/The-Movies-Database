@@ -1,5 +1,5 @@
 To open this App just follow this link:
-https://dmitrydam.github.io/The-Movie-Database/build
+https://dmitrydam.github.io/The-Movies-Database/build
 
 
 ## The Movie Database (API+LocalStorage) on ReactJS.
