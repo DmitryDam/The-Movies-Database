@@ -6,9 +6,9 @@
 	padding: 8px;
 	color: #fff;
 	margin-bottom: 16px;	
-	background-color: #424242;
+	background-color: #0c161e;
 	border-radius: 2px;
-	box-shadow: 5px 5px 12px 0 rgba(83,77,77,.3);
+	box-shadow: 5px 5px 12px 0 rgba(83,77,77,.3);;
 	transition: all .3s ease-out;
 	cursor: pointer;
 }
@@ -42,8 +42,7 @@
 	position: absolute;
 	outline: 0;
 	border: 0;
-	background-color: #424242;
-	color: #fff;
+	background-color: #e2b100;
 	cursor: pointer;
 	font-weight: 700;
 	bottom: 8px;
@@ -51,14 +50,13 @@
 	width: 35px;
 	height: 35px;
 	font-size: 24px;
-	line-height: 31px;
+	line-height: 35px;
 	border-radius: 4px;
 	text-transform: capitalize;
-	border: 2px solid #fff;
 	transition: background-color .1s linear;
 }
 
 .WatchlistCard__btn:hover {
-	background-color: #fff;
-	color: #424242;
+	background-color: #3f51b5;
+	color: #fff;
 }
