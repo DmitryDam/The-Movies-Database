@@ -1,0 +1,6 @@
+.MoviesPage {
+	display: flex;
+	justify-content: space-between;
+	flex-grow: 1;
+	padding-bottom: 10px;
+}

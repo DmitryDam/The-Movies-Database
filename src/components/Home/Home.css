@@ -1,0 +1,32 @@
+.Home {
+	padding: 50px 0;
+	color: #424242;
+}
+
+.Home__icon {
+	display: block;
+	margin: auto;
+	width: 200px;
+	height: auto;
+}
+
+.Home__title {
+	margin-bottom: 50px;
+	margin-top: 50px;
+	text-align: center;
+}
+
+.Home__text {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.Home__link {
+    display: inline-block;
+    margin-left: 5px;
+    color: #424242;
+    text-decoration: underline;
+}

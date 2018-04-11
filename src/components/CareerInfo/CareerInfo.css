@@ -1,0 +1,39 @@
+.CareerInfo {
+	margin: auto;
+	border-collapse: collapse;
+}
+
+.CareerInfo caption {
+	color: #424242;
+	margin-bottom: 20px;
+	font-size: 24px;
+}
+
+.CareerInfo td {
+	padding: 12px 24px;
+	border: 3px solid #424242;
+	font-size: 18px;
+	color: #424242;
+}
+
+.CareerInfo ul {
+	list-style: none;
+}
+
+.CareerInfo li {
+	padding: 6px 4px;
+}
+
+.MemberCard__name::after {
+	display: block;
+	content: "";
+	margin: auto;
+	margin-top: 8px;
+	width: 50%;
+	height: 2px;
+	background-color: #fff;
+}
+
+.MemberCard__pos {
+	font-size: 30px;
+}

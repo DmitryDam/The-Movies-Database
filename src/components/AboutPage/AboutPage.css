@@ -1,0 +1,41 @@
+.AboutPage__nav {
+	margin-top: 20px;
+	margin-bottom: 80px;
+}
+
+.AboutPage__body {
+	width: 70%;
+	margin: auto;
+}
+
+
+
+.AboutPage__nav {
+    margin-top: 20px;
+    margin-bottom: 80px;
+ /*   Выравниваем по центру*/
+    display: flex;
+    justify-content: center;
+}
+.AboutNav {
+    display: flex;
+    justify-content: center;
+}
+.AboutNav__link {
+    color: #424242;
+    text-decoration: none;
+    text-transform: capitalize;
+    margin-right: 20px;
+    font-size: 24px;
+    padding-bottom: 4px;
+    border-bottom: 3px solid transparent;
+    transition: all .2s linear;
+}
+.AboutNav__link--active, .AboutNav__link:hover {
+    border-bottom-color: #424242;
+}
+.AboutPage__body {
+    width: 70%;
+    margin: auto;
+}
+
